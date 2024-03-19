@@ -3,16 +3,21 @@ Welcome to my project, “Exploring Trends in the Indian Startup Funding Ecosyst
 With over 1,17,000 startups, the country has witnessed an exponential growth in entrepreneurship. These startups are not confined to metropolitan areas, as the report indicates their presence in 670+ districts, with 50% of them originating from Tier-2 and Tier-3 cities
 Leveraging the power of Python and data visualization through Power BI, as a data analyst in this venture, aspire to uncover captivating trends within the expansive funding landscape of Indian startups. Join me on this exploration as we unravel the story behind the numbers, shedding light on the intricate patterns that have shaped the financial journey of startups in India during this critical period.
 
-# Questions
-Does the cities play a major role in funding?
-Which industries are favored by investors for funding?
-Who are the important investors in the Indian Ecosystem?
+# Questions:
+1.	What are the top 10 regions with the most start-ups?
+2.	Which region received the most investments?
+3.	What is the comparison of startups in Bangalore and Mumbai across different years?
+4.	How have the investment amounts changed over years?
+5.	What is the assessment of funding trends across the years for the top 5 sectors?
+6.	How are investors distributed across sectors?
+
 
 # Hypothesis
-Ho:
-Ha
-Ho
-Ha
+Hypothesis: The dominance of the Finance sector significantly influences the overall funding trends across various sectors.
+
+Null Hypothesis: The Finance sector does not have a substantial impact on the overall funding trends across various sectors.
+
+
 
 # Scope of work
 Import necessary libraries
