@@ -91,9 +91,9 @@ Features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![image](https://github.com/coderacheal/Attrition-Meter/assets/97846040/eb717bf3-d42b-4005-8080-276b69f08167)
+![image](https://app.powerbi.com/groups/me/reports/5649e23d-ca0b-4b84-b85f-48a332064476/ReportSection?experience=power-bi)
 
-![image](https://github.com/coderacheal/Attrition-Insight/assets/97846040/a0f9bf95-b847-4a9b-963b-8d875a0b0fc1)
+![image](https://medium.com/@ongomaelias/indian-startup-ecosystem-a-data-visualization-approach-to-understanding-the-effect-of-finance-809699a0af8a)
 
 
 
@@ -119,13 +119,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/coderacheal/Attrition-Meter.git
+  git clonehttps://github.com/Vaniskemunto/ecosystem.git
 ```
 
 Change into the cloned repository
 
 ```sh
-  cd Attrition-Meter
+  cd Ecosystem
   
 ```
 
@@ -138,6 +138,7 @@ python -m venv env
 ```
 
 Activate the virtual environment
+
 
 ```sh
     env/Scripts/activate
@@ -163,16 +164,13 @@ To run the project, execute the following command:
 
 ```
 
-- A webpage opens up to view the app
-- Login to the app with `username=coderacheal` and `password:123456`
-- Finally test a prediction by clicking on the predicitons page
-- **Note**: Users may not be able to access the View Data page as the secrets file is not checked into git
+
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-🕵🏽‍♀️ **Racheal Appiah-kubi**
+🕵🏽‍♀️ **Elias Ongoma**
 
 - GitHub: [GitHub Profile](https://github.com/coderacheal)
 - Twitter: [Twitter Handle](https://twitter.com/racheal_kubi)
@@ -185,7 +183,7 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **Add a front end application for users**
+
   
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -223,36 +221,3 @@ I would like to thank all the free available resource made available online
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-# ecosystem
-Welcome to my project, “Exploring Trends in the Indian Startup Funding Ecosystem.” Here, I delve deep into the Indian startup landscape, conducting a thorough analysis of data spanning from 2019 to 2021. India recently celebrated the 7th anniversary of the startup India initiative,and the release of the National Startup Report 2022 has brought to light a staggering growth and remarkable achievements in the country's startup ecosystem over the past seven years (2015-2022). The report showcases a 7x increase in the number of incubators, a 9x increase in the number of investors, and an impressive 15x increase in the total funding for startups.
-With over 1,17,000 startups, the country has witnessed an exponential growth in entrepreneurship. These startups are not confined to metropolitan areas, as the report indicates their presence in 670+ districts, with 50% of them originating from Tier-2 and Tier-3 cities
-Leveraging the power of Python and data visualization through Power BI, as a data analyst in this venture, aspire to uncover captivating trends within the expansive funding landscape of Indian startups. Join me on this exploration as we unravel the story behind the numbers, shedding light on the intricate patterns that have shaped the financial journey of startups in India during this critical period.
-
-# Questions:
-1.	What are the top 10 regions with the most start-ups?
-2.	Which region received the most investments?
-3.	What is the comparison of startups in Bangalore and Mumbai across different years?
-4.	How have the investment amounts changed over years?
-5.	What is the assessment of funding trends across the years for the top 5 sectors?
-6.	How are investors distributed across sectors?
-
-
-# Hypothesis
-Hypothesis: The dominance of the Finance sector significantly influences the overall funding trends across various sectors.
-
-Null Hypothesis: The Finance sector does not have a substantial impact on the overall funding trends across various sectors.
-
-
-
-# Scope of work
-Import necessary libraries
-Do data connection to the various datasets
-State the hypothesis and ask 5 or more questions
-Do Expolatory analysis
-Data cleaning
-Statistical testing
-Power BI deployment
