@@ -119,7 +119,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clonehttps://github.com/Vaniskemunto/ecosystem.git
+  git clone https://github.com/Vaniskemunto/ecosystem/tree/Elias
 ```
 
 Change into the cloned repository
